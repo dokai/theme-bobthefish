@@ -1300,4 +1300,6 @@ function fish_prompt -d 'bobthefish, a fish theme optimized for awesome'
   end
 
   __bobthefish_finish_segments
+  echo -e ''
+  echo (set_color purple --bold)"λ "(set_color normal)
 end
